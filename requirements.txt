@@ -1,0 +1,10 @@
+numpy
+ipykernel
+tensorflow
+keras
+pandas
+matplotlib
+scikit-learn
+tensorboard
+streamlit
+# tensorflow-gpu
