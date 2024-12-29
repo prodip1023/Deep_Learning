@@ -7,4 +7,6 @@ matplotlib
 scikit-learn
 tensorboard
 streamlit
+scikeras
+
 # tensorflow-gpu
