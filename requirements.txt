@@ -8,5 +8,6 @@ scikit-learn
 tensorboard
 streamlit
 scikeras
+nltk
 
 # tensorflow-gpu
